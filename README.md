@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshan5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working with **PHP and Laravel**
+- 🔭 I’m currently working with **Wordpress, PHP and Laravel**
 - 👯 I’m looking to collaborate on **Frontend and Backend projects**
 - 🤝 I’m seeking help with **HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, Tailwind CSS, WordPress, PHP, Laravel, and CodeIgniter**
 - 📫 How to reach me: [jamarshan187@gmail.com](mailto:jamarshan187@gmail.com)
